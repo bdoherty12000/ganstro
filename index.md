@@ -2,26 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/bdoherty12000/ganstro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Michael Toland
 
-Michael is a dynamic young man with a bright future behind him who enjoys swimming with jellyfish
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Michael** is a _dynamic_ young man with a `bright` future behind him who enjoys swimming with jellyfish
 
 [Link](url) and ![Image](src)
 ```
