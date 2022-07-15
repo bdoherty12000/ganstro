@@ -6,7 +6,6 @@ You can use the [editor on GitHub](https://github.com/bdoherty12000/ganstro/edit
 
 **Michael** is a _dynamic_ young man with a `bright` future behind him who enjoys swimming with jellyfish
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
